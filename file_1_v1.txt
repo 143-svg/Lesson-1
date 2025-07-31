@@ -1,3 +1,4 @@
 "file_1-string-1-v1" 
 "file_1-string-2-v1" 
 "file_1-string-3-v4" 
+file_1 - string_2 - v2
