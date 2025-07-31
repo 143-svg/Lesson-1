@@ -1,0 +1,1 @@
+file_1 - string_1 -v1 echo file_2 - string_1 -v1 echo  file_5 - string_1 - v1
