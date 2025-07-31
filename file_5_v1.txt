@@ -1,3 +1,6 @@
 file_1 - string_1 -v1 echo file_2 - string_1 -v1 echo  file_5 - string_1 - v1
 file_5 - string_2 - v3
+<<<<<<< HEAD
 file_5 - string_3 - v4
+=======
+>>>>>>> a0872c6 (third commit: 5 files)
