@@ -1,2 +1,0 @@
-file_2 - string_2 - v2
-file_2 - string_3 - v4
